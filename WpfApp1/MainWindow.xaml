@@ -56,24 +56,46 @@
             <userControls:EditBook2 x:Name="editBookUserControl2"/>
         </Grid>
         <Grid x:Name="RemoveBookGrid" Visibility="Collapsed">
-            <userControls:AddBook x:Name="RemoveBookUserControl"/>
+            <userControls:RemoveBook x:Name="RemoveBookUserControl"/>
         </Grid>
-        <Grid x:Name="addBookGrid" Visibility="Collapsed">
-            <userControls:AddBook x:Name="AddBookUserControl"/>
+        <Grid x:Name="ShowBooksGrid" Visibility="Collapsed">
+            <userControls:ShowBooks x:Name="ShowBooksUserControl"/>
         </Grid>
-        <Grid x:Name="addBookGrid" Visibility="Collapsed">
-            <userControls:AddBook x:Name="AddBookUserControl"/>
+        <Grid x:Name="ShowAvailableItemsGrid" Visibility="Collapsed">
+            <userControls:ShowAvailableItems x:Name="ShowAvailableItemsUserControl"/>
         </Grid>
-        <Grid x:Name="addBookGrid" Visibility="Collapsed">
-            <userControls:AddBook x:Name="AddBookUserControl"/>
+        <Grid x:Name="AddJournalGrid" Visibility="Collapsed">
+            <userControls:AddJournal x:Name="AddJournalGridUserControl"/>
         </Grid>
-        <Grid x:Name="addBookGrid" Visibility="Collapsed">
-            <userControls:AddBook x:Name="AddBookUserControl"/>
+        <Grid x:Name="EditJournalGrid" Visibility="Collapsed">
+            <userControls:EditJournal x:Name="EditJournalUserControl"/>
         </Grid>
-        <Grid x:Name="addBookGrid" Visibility="Collapsed">
-            <userControls:AddBook x:Name="AddBookUserControl"/>
+        <Grid x:Name="EditJournalGrid2" Visibility="Collapsed">
+            <userControls:EditJournal2 x:Name="EditJournalUserControl2"/>
         </Grid>
-        <Grid x:Name="addBookGrid" Visibility="Collapsed">
-            <userControls:AddBook x:Name="AddBookUserControl"/>
+        <Grid x:Name="RemoveJournalGrid" Visibility="Collapsed">
+            <userControls:RemoveJournal x:Name="RemoveJournalUserControl"/>
         </Grid>
+        <Grid x:Name="ShowJournalsGrid" Visibility="Collapsed">
+            <userControls:ShowJournals x:Name="ShowJournalsUserControl"/>
+        </Grid>
+        <Grid x:Name="SellItemsGrid" Visibility="Collapsed">
+            <userControls:SellItems x:Name="SellItemsUserControl"/>
+        </Grid>
+        <Grid x:Name="ReceiptsGrid" Visibility="Collapsed">
+            <userControls:Receipts x:Name="ReceiptsControl"/>
+        </Grid>
+        <Grid x:Name="AddCustomerGrid" Visibility="Collapsed">
+            <userControls:AddCustomer x:Name="AddCustomerControl"/>
+        </Grid>
+        <Grid x:Name="RemoveCustomerGrid" Visibility="Collapsed">
+            <userControls:RemoveCustomer x:Name="RemoveCustomerControl"/>
+        </Grid>
+        <Grid x:Name="ManagerExceptionsGrid" Visibility="Collapsed">
+            <userControls:ManagerExceptions x:Name="ManagerExceptionsControl"/>
+        </Grid>
+        <Grid x:Name="ShowClubCustomersGrid" Visibility="Collapsed">
+            <userControls:ShowClubCustomers x:Name="ShowClubCustomersControl"/>
+        </Grid>
+    </Grid>
 </Window>

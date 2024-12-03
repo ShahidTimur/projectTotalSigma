@@ -7,7 +7,45 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="ClearableTextBox.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EditBook.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MenuButton.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RemoveBook.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RemoveCustomer.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RemoveJournal.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="ClearableTextBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EditBook.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MenuButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RemoveBook.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RemoveCustomer.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RemoveJournal.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
