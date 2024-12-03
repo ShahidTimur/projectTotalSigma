@@ -1,0 +1,12 @@
+S:\2024-2025\ИСП231\КЛЕВЦОВ ЙОУ С#\Клевцовъ\ClassLibrary1\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.deps.json
+S:\2024-2025\ИСП231\КЛЕВЦОВ ЙОУ С#\Клевцовъ\ClassLibrary1\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.dll
+S:\2024-2025\ИСП231\КЛЕВЦОВ ЙОУ С#\Клевцовъ\ClassLibrary1\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.pdb
+S:\2024-2025\ИСП231\КЛЕВЦОВ ЙОУ С#\Клевцовъ\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.csproj.AssemblyReference.cache
+S:\2024-2025\ИСП231\КЛЕВЦОВ ЙОУ С#\Клевцовъ\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+S:\2024-2025\ИСП231\КЛЕВЦОВ ЙОУ С#\Клевцовъ\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.AssemblyInfoInputs.cache
+S:\2024-2025\ИСП231\КЛЕВЦОВ ЙОУ С#\Клевцовъ\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.AssemblyInfo.cs
+S:\2024-2025\ИСП231\КЛЕВЦОВ ЙОУ С#\Клевцовъ\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+S:\2024-2025\ИСП231\КЛЕВЦОВ ЙОУ С#\Клевцовъ\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.dll
+S:\2024-2025\ИСП231\КЛЕВЦОВ ЙОУ С#\Клевцовъ\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\refint\ClassLibrary1.dll
+S:\2024-2025\ИСП231\КЛЕВЦОВ ЙОУ С#\Клевцовъ\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.pdb
+S:\2024-2025\ИСП231\КЛЕВЦОВ ЙОУ С#\Клевцовъ\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ref\ClassLibrary1.dll
